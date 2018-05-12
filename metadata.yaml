@@ -1,0 +1,28 @@
+_repo: Rome-Turkey-and-Jerusalem_39290
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoare, Edward
+    birthdate: 1812
+    deathdate: 1894
+    gutenberg_agent_id: '39940'
+    url: http://www.gutenberg.org/2009/agents/39940
+description: ''
+gutenberg_issued: '2012-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39290'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theology, Doctrinal -- Popular works'
+- !lcsh 'Bible -- Prophecies'
+- !lcsh 'Second Advent'
+- !lcc 'BT'
+title: Rome, Turkey, and Jerusalem
+url: http://www.gutenberg.org/ebooks/39290
